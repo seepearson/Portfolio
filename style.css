@@ -1,5 +1,8 @@
 h1 {
-    font-family: 'Oswald', sans-serif;;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 35px;
+    margin: 15px;
 }
 
 body{
@@ -11,3 +14,34 @@ body{
     background-color: gray;
     color: white;
 }
+
+.card {
+    height: ;
+}
+
+.card-text-1{
+    font-size: 25px;
+    text-align: center;
+    padding: 70px 0;
+    ;     
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightslategray;
+  color: white;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+}
+
+
+@media screen and (max-width: 768px) {
+   
+    /* The wrapper's width will be 600px */
+    .wrapper {
+      width: 600px;
+    }
+  }
