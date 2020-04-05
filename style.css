@@ -9,11 +9,16 @@ body{
    
     background-image: url(https://medlininc.com/wp-content/uploads/2018/09/iStock-939184094.jpg);
     font-family: 'Nunito Sans';
+    background-repeat: no-repeat; 
+    background-size: cover;
 }
 
 .navbar {
     background-color: gray;
     color: white;
+    height: 80px;
+    font-size: 25px;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 
