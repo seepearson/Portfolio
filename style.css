@@ -19,6 +19,7 @@ body{
 
 .aboutMe {
     background: rgba(71, 71, 71, 0.6);
+    margin-top: 40px;
 }
 .aboutMeText{
     font-size: 25px;
@@ -30,6 +31,52 @@ body{
     font-family: 'IM Fell French Canon SC', serif;
     
         
+}
+
+.groupProject1, .password-repo, .quiz-repo{
+    height: 550px;
+    width: 300px;
+    background: rgba(71, 71, 71, 0.4);
+    margin: 20px;
+    float: left;
+    margin-top: 70px;
+}
+
+.quizImage {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    }
+
+.passwordImage {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.MadGifz {
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.portfolioText{
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 2rem;
+    font-family: 'DM Serif Text', serif;
+}
+
+.descriptionText {
+    margin: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 1.3rem;
 }
 
 #linkedin{

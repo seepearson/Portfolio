@@ -1,0 +1,22 @@
+{
+  "name": "homework-2",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seepearson/Homework-2.git"
+  },
+  "author": "Cassy Pearson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seepearson/Homework-2/issues"
+  },
+  "homepage": "https://github.com/seepearson/Homework-2#readme",
+  "dependencies": {
+    "link-preview-generator": "0.0.3"
+  }
+}
